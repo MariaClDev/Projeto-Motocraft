@@ -24,3 +24,9 @@
 <h3>Protótipo desenvolvido no <a href="https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=1883-2&t=JxUS1sDfvDPH5cov-0">Figma.</a></h3>
 <br>
 <h2 align="center" >Para mais informações sobre meus projetos e atividades Profissionais.</h2>
+
+<p align="center" float="left">
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+</p>
