@@ -8,7 +8,7 @@
   <img src="https://github.com/MariaClDev/Projeto-Motocraft/assets/163427241/7cc961e2-bca3-40d0-bd52-b3d6e073d134" alt="Notebook">
 </p>
 
-<h2 align="center" >Acesse o projeto  <a href="https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=1883-2&t=JxUS1sDfvDPH5cov-0"> aqui!</a></h2>
+<h2 align="center" >Acesse o projeto  <a href=" https://mariacldev.github.io/Projeto-Motocraft/"> aqui!</a></h2>
 
 
 <h3>Linguagens utilizadas no projeto:</h3>
