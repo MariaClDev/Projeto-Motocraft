@@ -8,7 +8,7 @@
   <img src="https://github.com/MariaClDev/Projeto-Motocraft/assets/163427241/7cc961e2-bca3-40d0-bd52-b3d6e073d134" alt="Notebook">
 </p>
 
-<h2 align="center" >Acesse o projeto  <a href=" https://mariacldev.github.io/Projeto-Motocraft/"> aqui!</a></h2>
+<h2 align="center" >Acesse o projeto  <a href="https://mariacldev.github.io/Projeto-Motocraft/"> aqui!</a></h2>
 
 
 <h3>Linguagens utilizadas no projeto:</h3>
