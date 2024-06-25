@@ -3,13 +3,12 @@
 <p align="center">
   <img src="https://github.com/MariaClDev/Projeto-Motocraft/assets/163427241/b45cc362-290e-402f-b982-d993c13ac181" alt="IMG-MOTOCRAFT (1)">
 
-  <h3></h3>
+  <h2 align="center">Projeto adaptável a diferentes dispositivos</h2>
   
   <img src="https://github.com/MariaClDev/Projeto-Motocraft/assets/163427241/7cc961e2-bca3-40d0-bd52-b3d6e073d134" alt="Notebook">
 </p>
 
 <h2 align="center" >Acesse o projeto  <a href="https://mariacldev.github.io/Projeto-Motocraft/"> aqui!</a></h2>
-
 
 <h3>Linguagens utilizadas no projeto:</h3>
 <p float="left">
